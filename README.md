@@ -18,15 +18,20 @@ you have to have node.js installed
 Built With
 
 HTML5
+
 CSS3
+
 BOOTSTRAP 4 BETA
+
 GULP
+
 SASS
 
 
 Author
 
 Modupe
+
 See also the list of contributors who participated in this project.
 
 
