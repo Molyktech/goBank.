@@ -142,8 +142,8 @@ body {
   background: rgba(0, 0, 0, 0.7); }
 
 #contact-section {
-  background: url("../img/contact.jpg") no-repeat;
-  background-size: cover;
+  /*background: url("../img/contact.jpg") no-repeat;
+  background-size: cover;*/
   min-height: 500px; }
 
 .second-portion {
